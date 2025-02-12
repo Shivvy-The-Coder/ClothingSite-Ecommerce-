@@ -57,7 +57,8 @@ const Navbar = () => {
             <div className="container flex justify-between items-center">
                 
                     <div>
-                        <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2"> <img src={logo} alt="logo" 
+                        <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2"> 
+                            <img src={logo} alt="logo" 
                         className="w-10 "/>Shopsy</a>
                   
                     </div>
@@ -111,6 +112,7 @@ const Navbar = () => {
                      group-hover:rotate-180"/>
                     </span>
                 </a>
+                
                 <div className="absolute z-[999] hidden group-hover:block w-[150px] rounded-md bg-white 
                 p-2 text-black">
                     <ul className="border-2 rounded-md">

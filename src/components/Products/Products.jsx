@@ -1,9 +1,9 @@
 import React from 'react'
 import Img1 from "/images/women-Ethenic.png"
-import Img2 from "/public/images/women_western.jpg"
-import Img3 from "/public/images/Goggles.jpg"
-import Img4 from "/public/images/Printed-tshort.jpg"
-import Img5 from "/public/images/Fashion-tshirt.jpg"
+import Img2 from "/images/women_western.jpg"
+import Img3 from "/images/Goggles.jpg"
+import Img4 from "/images/Printed-tshort.jpg"
+import Img5 from "/images/Fashion-tshirt.jpg"
 import { FaStar } from "react-icons/fa";
 const Products = () => {
 
@@ -17,6 +17,7 @@ const ProductsData = [
         author:"White",
         aosDelay:"0"
     },
+    
     {
         id:2,
         img:Img2,
