@@ -68,7 +68,7 @@ const Navbar = () => {
                             className="w-[200px] sm:w-[200px] 
                             group-hover:w-[300px] px-2 py-1
                             transition-all duration-300 rounded-full border border-black
-                            focus:outline-none focus:border-[1.2px] focus:border-orange-400 focus:border-primary
+                            focus:outline-none focus:border-[1.2px] focus:border-orange-400 
                             " />
 
                         <IoMdSearch className="text-gray-500 group-hover:text-primary absolute top-[30%] right-[5%]"/>
