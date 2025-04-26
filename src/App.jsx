@@ -7,7 +7,7 @@ import "aos/dist/aos.css"
 import TopProducts from './components/TopProducts/TopProducts';
 import Banner from './components/Banner/Banner';
 import Testimonials from './components/Testimonials';
-
+// comments has been added for clearification 
 const App = () => {
 
   React.useEffect(()=>{
