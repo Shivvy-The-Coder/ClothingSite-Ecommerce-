@@ -24,7 +24,7 @@ const Menu=
     {
         "id": 4,
         name :"Men's Wear",
-        // just for daily record
+        // just for daily recorddd
         link:"#"
     },
     {
